@@ -5,7 +5,6 @@ import Projects from '@/components/projects'
 import React from 'react'
 import Skills from '@/components/skills'
 import Experiences from '@/components/experiences'
-import Contact from '@/components/contact'
 
 function Home() {
   return (
