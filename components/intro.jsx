@@ -24,7 +24,7 @@ export default function Intro() {
                 }}
                 >
                 <Image 
-                src="https://images.unsplash.com/photo-1639020715359-f03b05835829?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2940&q=80"
+                src="/images/portre.jpg"
                 alt='Emre portrait'
                 height="192"
                 width="192"
